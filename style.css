@@ -5,3 +5,7 @@ header {
 body {
   padding: 0% 10%;
 }
+
+a {
+  text-decoration: none;
+}
